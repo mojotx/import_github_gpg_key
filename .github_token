@@ -1,0 +1,4 @@
+# See https://github.com/settings/tokens
+GITHUB_TOKEN="<change me to a real token>"
+
+# vi: ft=sh
